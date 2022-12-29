@@ -6,7 +6,7 @@ and automatically clear sessions that are not used for 10 minutes.
 ## Installation
 
 ```text
-$ go get github.com/shenbowei/switch-ssh-go
+$ go get github.com/gklicker/switch-ssh-go
 ```
 
 ## Basic Usage
@@ -36,7 +36,7 @@ package main
 
 import (
     "fmt"
-    "github.com/shenbowei/switch-ssh-go"
+    "github.com/gklicker/switch-ssh-go"
 )
 
 func main() {
